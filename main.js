@@ -1,1 +1,1 @@
-console.log("index.js");
+document.write(123);
